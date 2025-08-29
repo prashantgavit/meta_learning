@@ -1,0 +1,2 @@
+# Include all JSON files in the omniglot assets directory
+recursive-include meta_learning/meta_data/datasets/assets/omniglot *.json

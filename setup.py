@@ -10,6 +10,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/prashantgavit/meta_learning.git",
     packages=find_packages(),
+    include_package_data=True,
     install_requires=[],
     classifiers=[
         "Programming Language :: Python :: 3.11",
